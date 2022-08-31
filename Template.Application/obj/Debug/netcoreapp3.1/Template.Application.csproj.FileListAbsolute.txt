@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\Template\Template.Application\bin\Debug\netcoreapp3.1\Template.Application.deps.json
+C:\Users\sergi\source\repos\Template\Template.Application\bin\Debug\netcoreapp3.1\Template.Application.dll
+C:\Users\sergi\source\repos\Template\Template.Application\bin\Debug\netcoreapp3.1\Template.Application.pdb
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.dll
+C:\Users\sergi\source\repos\Template\Template.Application\obj\Debug\netcoreapp3.1\Template.Application.pdb
