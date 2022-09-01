@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Template.Data.Extensions;
 using Template.Data.Mappings;
 using Template.Domain.Entities;
 
@@ -19,6 +20,8 @@ namespace Template.Data.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new UserMap());
+
+            modelBuilder.SeedData();
 
             base.OnModelCreating(modelBuilder);
         }
