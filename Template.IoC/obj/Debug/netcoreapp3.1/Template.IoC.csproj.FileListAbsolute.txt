@@ -1,0 +1,17 @@
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.IoC.deps.json
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.IoC.dll
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.IoC.pdb
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.Application.dll
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.Data.dll
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.Application.pdb
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.Data.pdb
+C:\Users\sergi\source\repos\Template\Template.IoC\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.csproj.CopyComplete
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.dll
+C:\Users\sergi\source\repos\Template\Template.IoC\obj\Debug\netcoreapp3.1\Template.IoC.pdb

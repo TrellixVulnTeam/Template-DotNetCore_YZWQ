@@ -11,6 +11,3 @@ C:\Users\sergi\source\repos\Template\Template.Data\obj\Debug\netcoreapp3.1\Templ
 C:\Users\sergi\source\repos\Template\Template.Data\obj\Debug\netcoreapp3.1\Template.Data.csproj.CopyComplete
 C:\Users\sergi\source\repos\Template\Template.Data\obj\Debug\netcoreapp3.1\Template.Data.dll
 C:\Users\sergi\source\repos\Template\Template.Data\obj\Debug\netcoreapp3.1\Template.Data.pdb
-C:\Users\sergi\source\repos\Template\Template.Data\bin\Debug\netcoreapp3.1\Template.Data.runtimeconfig.json
-C:\Users\sergi\source\repos\Template\Template.Data\bin\Debug\netcoreapp3.1\Template.Data.runtimeconfig.dev.json
-C:\Users\sergi\source\repos\Template\Template.Data\obj\Debug\netcoreapp3.1\Template.Data.genruntimeconfig.cache

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hLVdsoXbVhv42Jc8hfBDrsP1pfj4F5rcbi2bze1NveXKfl5FIAJcfpGa62KDEFQikAVIv4C0pVhfFLQkpvLGvA==",
+  "dgSpecHash": "DfaKQjhM6aB6E6EC7v65n8JzyuKZ2tp6obzIl8rgKSbmVprKW8PaeFWB1q9ckZ68MkV+jnV6btBQM/Ivf9hNfA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sergi\\source\\repos\\Template\\Template.Application\\Template.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

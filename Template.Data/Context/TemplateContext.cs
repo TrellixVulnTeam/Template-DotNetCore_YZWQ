@@ -1,7 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Template.Data.Extensions;
 using Template.Data.Mappings;
 using Template.Domain.Entities;
