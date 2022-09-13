@@ -1,6 +1,7 @@
 C:\Users\sergi\source\repos\Template\Template.Domain\bin\Debug\netcoreapp3.1\Template.Domain.deps.json
 C:\Users\sergi\source\repos\Template\Template.Domain\bin\Debug\netcoreapp3.1\Template.Domain.dll
 C:\Users\sergi\source\repos\Template\Template.Domain\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\sergi\source\repos\Template\Template.Domain\obj\Debug\netcoreapp3.1\Template.Domain.csproj.AssemblyReference.cache
 C:\Users\sergi\source\repos\Template\Template.Domain\obj\Debug\netcoreapp3.1\Template.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sergi\source\repos\Template\Template.Domain\obj\Debug\netcoreapp3.1\Template.Domain.AssemblyInfoInputs.cache
 C:\Users\sergi\source\repos\Template\Template.Domain\obj\Debug\netcoreapp3.1\Template.Domain.AssemblyInfo.cs
