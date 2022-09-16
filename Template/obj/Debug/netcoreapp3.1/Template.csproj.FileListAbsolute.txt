@@ -159,3 +159,9 @@ C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.c
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.dll
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.pdb
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.genruntimeconfig.cache
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Swagger.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Swagger.pdb
