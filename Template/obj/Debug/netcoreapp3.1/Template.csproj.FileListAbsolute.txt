@@ -47,6 +47,7 @@ C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -57,6 +58,9 @@ C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
@@ -131,9 +135,11 @@ C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.A
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Data.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Domain.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.IoC.dll
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Swagger.dll
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Application.pdb
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Data.pdb
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.IoC.pdb
+C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Swagger.pdb
 C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Domain.pdb
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.csproj.AssemblyReference.cache
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.GeneratedMSBuildEditorConfig.editorconfig
@@ -159,9 +165,3 @@ C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.c
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.dll
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.pdb
 C:\Users\sergi\source\repos\Template\Template\obj\Debug\netcoreapp3.1\Template.genruntimeconfig.cache
-C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Swagger.dll
-C:\Users\sergi\source\repos\Template\Template\bin\Debug\netcoreapp3.1\Template.Swagger.pdb

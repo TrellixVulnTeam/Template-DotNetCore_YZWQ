@@ -43,5 +43,11 @@ namespace Template.Controllers
         {
             return Ok(this._userService.Put(userViewModel));
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(string id)
+        {
+            return Ok(this._userService.Delete(id));
+        }
     }
 }
